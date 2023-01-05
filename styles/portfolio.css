@@ -10,7 +10,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -38,6 +38,13 @@ nav ul{
     font-weight: 700;
     font-size: 20px;
     
+}
+.contact-b{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 420px;
+    font-size: 20px;
 }
 .image1{
     width: 600px;
